@@ -1,7 +1,7 @@
 <?php
 require_once '_classes/DatasJson.php';
 
-// for testing 
+// for testing dataJson
 
 $datas = new DatasJson();
 
